@@ -1,0 +1,28 @@
+npm install  @react-navigation/native  @react-navigation/stack @react-navigation/bottom-tabs @react-navigation/drawer   react-native-vector-icons  react-native-animatable
+
+For react-navigaton add packages and dependencies as follow: 
+    npm install @react-navigation/native
+
+
+    Extra Dependencies:
+        expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+        npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+
+    Stack Navigator: 
+        npm install @react-navigation/stack
+
+
+    Tab Navigation:
+        npm install @react-navigation/bottom-tabs
+
+
+    Drawer Navigation: 
+        npm install @react-navigation/drawer
+
+
+react-native-elements
+    npm install react-native-elements
+
+React-Animitable
+    npm install react-native-animatable
